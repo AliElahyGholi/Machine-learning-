@@ -32,5 +32,8 @@ The system combines text-based player data and pose estimation from images/video
 - football_talent_dataset_sample_iran_200.csv
 
 ## References
+Google Research, MoveNet: Ultra fast and accurate pose detection
+TensorFlow Hub Documentation
+Scikit-learn User Guide
 - https://www.tensorflow.org/hub/tutorials/movenet
 - https://scikit-learn.org/stable/
