@@ -26,14 +26,14 @@ The system combines text-based player data and pose estimation from images/video
 - Scikit-learn
 
 ## Files
-football_talent_dataset_sample_iran_100.csv
-football_talent_dataset_sample_iran_200.csv
-علی اللهی قلی 40112340119097 پاورپوینت پروژه نهایی یادگیری ماشین برای استعدادیابی رشته ورزشی.pptx
-علی اللهی قلی 40112340119097 توضیح پروژه نهایی یادگیری ماشین برای استعدادیابی رشته ورزشی.docx
-علی_اللهی_قلی_پروژه_نهایی_یادگیری_ماشین_برای_استعدادیابی_رشته_ورزشی_فوتبال.ipynb
+-football_talent_dataset_sample_iran_100.csv
+-football_talent_dataset_sample_iran_200.csv
+-علی اللهی قلی 40112340119097 پاورپوینت پروژه نهایی یادگیری ماشین برای استعدادیابی رشته ورزشی.pptx
+-علی اللهی قلی 40112340119097 توضیح پروژه نهایی یادگیری ماشین برای استعدادیابی رشته ورزشی.docx
+-علی_اللهی_قلی_پروژه_نهایی_یادگیری_ماشین_برای_استعدادیابی_رشته_ورزشی_فوتبال.ipynb
 ## References
-Google Research, MoveNet: Ultra fast and accurate pose detection
-TensorFlow Hub Documentation
-Scikit-learn User Guide
+-Google Research, MoveNet: Ultra fast and accurate pose detection
+-TensorFlow Hub Documentation
+-Scikit-learn User Guide
 - https://www.tensorflow.org/hub/tutorials/movenet
 - https://scikit-learn.org/stable/
